@@ -1,0 +1,71 @@
+designators,description,manufacturer_part,lcsc_part,qty_per_board,link
+U1,USB Connector,TYPE-C-31-M-31,C2760486,1,https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-31_C2760486.html
+F1,6V 1.5A 100A 3A 1206 Resettable Fuse,TLC-NSMD150,C261956,1,https://www.lcsc.com/product-detail/Resettable-Fuses_span-style-background-color-ff0-TLC-span-Electronic-TLC-NSMD150_C261956.html
+D3,30V 550mV@5A 5A DO-221AC Schottky Barrier Diode,SK53AFL-TP,C780074,1,
+D2,ESD protection,SP0503BAHTG,C7074,1,https://www.lcsc.com/product-detail/TVS_Littelfuse-SP0503BAHTG_C7074.html
+IC2,Linear Voltage Regulators 1A 60dB@(120Hz),AMS1117-3.3,C347222,1,https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_UMW-Youtai-Semiconductor-Co-Ltd-AMS1117-3-3_C347222.html
+"FL1, FL2",50mΩ ±25% 120Ω@100MHz 0603 Ferrite Beads ROHS,BLM18PG121SN1D,C14709,2,https://www.lcsc.com/product-detail/Ferrite-Beads_Murata-Electronics-BLM18PG121SN1D_C14709.html
+IC3,1.4A Fixed 5V~5V Positive 18V SOT-223 Linear Voltage Regulators (LDO) ROHS,AMS1117-5.0,C473812,1,https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_Slkor-SLKORMICRO-Elec-AMS1117-5-0_C473812.html
+"D1, D5, D6",40V Single 500mV@3A 3A SMA(DO-214AC) Schottky Barrier Diodes (SBD) ROHS,SS34A,C2886580,3,https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Guangdong-Hottech-SS34A_C2886580.html
+IC1,TO-263-5 DC-DC Converters ROHS,LM2576S-5.0,C2920854,1,https://www.lcsc.com/product-detail/DC-DC-Converters_Minos-LM2576S-5-0_C2920854.html
+IC5,TSSOP-24 Signal Switches / Encoders & Decoders / Multiplexers ROHS,TCA9548APWR,C130026,1,https://www.lcsc.com/product-detail/Signal-Switches-Encoders-Decoders-Multiplexers_Texas-Instruments-TCA9548APWR_C130026.html
+L1,"1.9A 100uH ±20% SMD,12.5x12.5mm Power Inductors ROHS",SLF12575T-101M1R9-PF,C81470,1,https://www.lcsc.com/product-detail/Power-Inductors_TDK-SLF12575T-101M1R9-PF_C81470.html
+IC4,QFN-24-EP(4x4) USB ICs ROHS,CP2102N-A02-GQFN24R,C969151,1,https://www.lcsc.com/product-detail/USB-ICs_SILICON-LABS-CP2102N-A02-GQFN24R_C969151.html
+IC6,"40V 150mW 100@10mA,1V 200mA 2 NPN SC-88 Bipolar Transistors - BJT ROHS",LMBT3904DW1T1G,C131781,1,https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_LRC-LMBT3904DW1T1G_C131781.html
+IC8,SSOP-24-208mil Analog Switches / Multiplexers ROHS,CD74HC4067SM96,C98457,1,https://www.lcsc.com/product-detail/Analog-Switches-Multiplexers_Texas-Instruments-CD74HC4067SM96_C98457.html
+IC7,WSON-8-EP(5x6) NOR FLASH ROHS,W25Q128JVPIQ,C2803379,1,https://www.lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q128JVPIQ_C2803379.html
+J1,1 Inner bore SMA Board Edge Positive foot 6GHz -65℃~+165℃ 50Ω 6.35mm Plugin RF Connectors / Coaxial Connectors ROHS,5-1814832-2,C482015,1,https://www.lcsc.com/product-detail/RF-Connectors-Coaxial-Connectors_TE-Connectivity-5-1814832-2_C482015.html
+IC9,QFN-48-EP(6x6) RF Transceiver ICs ROHS,ESP32-D0WDQ6,C129733,1,https://www.lcsc.com/product-detail/RF-Transceiver-ICs_Espressif-Systems-ESP32-D0WDQ6_C129733.html
+L2,40MHz 12pF ±10ppm SMD3225-4P Crystals ROHS,S3240000121040,C426989,1,https://www.lcsc.com/product-detail/Crystals_JGHC-S3240000121040_C426989.html
+"Q1, Q2, Q3, Q4, Q5, Q6, Q8, Q9",20mA NPN 30V 100nA 940nm 0805 Phototransistors ROHS,PT17-21C/L41/TR8,C100090,8,https://www.lcsc.com/product-detail/Phototransistors_Everlight-Elec-PT17-21C-L41-TR8_C100090.html
+"U2, U3",Ambient Light Sensors ROHS,TCS34725FN,C2649487,2,https://www.lcsc.com/product-detail/Ambient-Light-Sensors_Advanced-Monolithic-Systems-TCS34725FN_C2649487.html
+"Q7, Q12, Q16, Q21","20V 2.9A 57mΩ@4.5V,3.6A 710mW N Channel SOT-23 MOSFETs ROHS",SI2302DDS-T1-GE3,C194092,4,https://www.lcsc.com/product-detail/MOSFETs_Vishay-Intertech-SI2302DDS-T1-GE3_C194092.html
+"LED1, LED2",2600K~3200K White light 80mW 0805 Light Emitting Diodes (LED) ROHS,BZ-C0805-W2-E1,C2833071,2,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_baizou-BZ-C0805-W2-E1_C2833071.html
+IC10,1A Brush DC Motor 2.7V~5.5V Parallel SSOP-24 Motor Driver ICs ROHS,"TB6612FNG,C,8,EL",C141517,1,https://www.lcsc.com/product-detail/Motor-Driver-ICs_TOSHIBA-TB6612FNG-C-8-EL_C141517.html
+IC11,QFN-24-EP(4x4) Attitude Sensor/Gyroscope ROHS,MPU-6050,C24112,1,https://www.lcsc.com/product-detail/Attitude-Sensor-Gyroscope_TDK-InvenSense-MPU-6050_C24112.html
+RE1,Plugin Rotary Encoders ROHS,PEC12R-4120F-S0012,C143801,1,https://www.lcsc.com/product-detail/Rotary-Encoders_BOURNS-PEC12R-4120F-S0012_C143801.html
+LS1,"Externally Driven 85dB@3.6V,10cm Magnetic 3.6V 2731Hz SMD,7.5x7.5mm Buzzers ROHS",KLJ-7525-3627,C189208,1,https://www.lcsc.com/product-detail/Buzzers_KELIKING-KLJ-7525-3627_C189208.html
+D4,100V 400mW Single 1.25V@150mA 8ns 300mA SOD-323 Switching Diode ROHS,1N4148WS,C917117,1,https://www.lcsc.com/product-detail/Switching-Diode_JSMSEMI-1N4148WS_C917117.html
+"Q10, Q13","40V 200mW 100@10mA,1V 200mA NPN SOT-23 Bipolar Transistors - BJT ROHS",MMBT3904,C181119,2,https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_Guangdong-Hottech-MMBT3904_C181119.html
+"IC13, IC15",2V~6V TSSOP-16 Shifting Register ROHS,"74HC595PW,118",C5948,2,https://www.lcsc.com/product-detail/Shifting-Register_Nexperia-74HC595PW-118_C5948.html
+Q11,SOP-8 MOSFETs ROHS,IRF7416TRPBF,C5350823,1,https://www.lcsc.com/product-detail/MOSFETs_TECH-PUBLIC-IRF7416TRPBF_C5350823.html
+S1,"50mA SPST 24V SMD-4P,6x6.6mm Tactile Switches ROHS",B3S-1002P,C271751,1,https://www.lcsc.com/product-detail/Tactile-Switches_Omron-Electronics-B3S-1002P_C271751.html
+IC14,,MP1584EN-LF-Z,,1,
+L3,"8.8A 4.7uH ±20% 8.8A 20.8mΩ SMD,6.6x7.3mm Inductors (SMD) ROHS",MDA7050-4R7M,C2847541,1,https://www.lcsc.com/product-detail/Inductors-SMD_KOHERelec-MDA7050-4R7M_C2847541.html
+"LED3, LED4, LED5, LED6, LED7, LED8",White light 100mW 0603 Light Emitting Diodes (LED) ROHS,SZYY0603W,C434422,6,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Yongyu-Photoelectric-SZYY0603W_C434422.html
+"Q14, Q15","20V 2.5A 1000mW 55mΩ@4.5V,3.6A N Channel SOT-23 MOSFETs ROHS",FSS2302S,C2926140,2,https://www.lcsc.com/product-detail/MOSFETs_FOSAN-FSS2302S_C2926140.html
+"IC16, IC17",SOT-23-6 Battery Management ICs ROHS,HY2213-BB3A,C113632,2,https://www.lcsc.com/product-detail/Battery-Management-ICs_HYCON-Tech-HY2213-BB3A_C113632.html
+J2,Power Connectors ROHS,XT30U-M,C99101,1,https://www.lcsc.com/product-detail/Power-Connectors_Changzhou-Amass-Elec-XT30U-M_C99101.html
+"Q18, Q20, Q19","30V 13A 3.1W 11.5mΩ@10V,12A N Channel SOIC-8 MOSFETs ROHS",AO4406AL,C35349,3,https://www.lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AO4406AL_C35349.html
+IC19,SOT-23-6 Battery Management ICs ROHS,HY2120-CB,C116509,1,https://www.lcsc.com/product-detail/Battery-Management-ICs_HYCON-Tech-HY2120-CB_C116509.html
+Q17,SOT-23-3L MOSFETs ROHS,AO3407A,C5379096,1,https://www.lcsc.com/product-detail/MOSFETs_MSKSEMI-AO3407A_C5379096.html
+L4,"1.6A 10uH ±20% 2A 106mΩ SMD,5x5mm Inductors (SMD) ROHS",LQH5BPB100MT0L,C521243,1,https://www.lcsc.com/product-detail/Inductors-SMD_Murata-Electronics-LQH5BPB100MT0L_C521243.html
+IC18,SOP-8 Battery Management ICs ROHS,CN3302,C559039,1,https://www.lcsc.com/product-detail/Battery-Management-ICs_ShangHai-Consonance-Elec-CN3302_C559039.html
+LED9,red led 0603,,,1,
+"R1, R2, R14, R15, R18, R21, R22, R24, R27",5.1kΩ 0402,,,9,
+"R9, R11, R4, R5, R10, R8, R13, R19, R16, R20, R17, R31, R32, R40, R41, R42, R50",10kΩ 0402,,,17,
+"R3, R29, R33, R35, R37, R34, R36, R38, R71, R67",2.2kΩ 0402,,,10,
+R7,22kΩ 0402,,,1,
+R6,33kΩ 0402,,,1,
+R12,20kΩ 0402,,,1,
+"R23, R26, R57, R58, R59, R60, R63, R65, R55, R56",100Ω 0402,,,10,
+"R25, R39, R48, R49, R51, R52, R64, R70, R73",1kΩ 0402,,,9,
+"R28, R47, R54, R46, R43, R44, R45, R66, R72, R68, R75",100kΩ 0402,,,11,
+R30,390kΩ 0402,,,1,
+R53,75kΩ 0402,,,1,
+"R61, R62",62Ω 2512,,,2,
+"R76, R77",330Ω 0402,,,2,
+R74,64.9kΩ 0402,,,1,
+R69,0.1Ω 2512,,,1,
+"C1, C2",4.7uF 0603 16V,,,2,
+"C4, C7, C10, C6, C9, C3, C15, C38, C47, C51, C52, C62, C56, C57, C58, C61",10uF 0603 16V,,,16,
+"C5, C8","150uF 16V ±20% SMD,D6.3xL7.7mm Aluminum Electrolytic Capacitors - SMD ROHS",UUD1C151MCL1GS,C445270,2,https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_Nichicon-UUD1C151MCL1GS_C445270.html
+"C11, C12, C28, C22, C17, C19, C18, C20, C32, C35, C49, C53, C50, C54, C55, C59, C60",0.1uF 0402 16V,,,17,
+"C13, C14",4.7uF 0402 6.3V,,,2,
+"C29, C30",12pF 0402,,,2,
+C27,3nF 0402,,,1,
+"C26, C37, C45, C46",10nF 0402,,,4,
+C23,5.6pF 0402,,,1,
+"C24, C25",270pF 0420,,,2,
+"C21, C31, C39, C33, C34, C36, C40, C41, C42, C43, C44",1uF 0402 16V,,,11,
+"C16, C48",100pF 0402,,,2,

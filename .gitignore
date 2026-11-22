@@ -1,0 +1,10 @@
+build/
+*.bin
+*.elf
+*.map
+.vscode/
+.DS_Store
+Thumbs.db
+*.b#*
+*.s#*
+*.epf
